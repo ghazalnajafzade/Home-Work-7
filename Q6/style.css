@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  /* padding: auto 0; */
+  text-align: center;
+  background-color: #bbb7b79f;
+}
+h1 {
+  margin-top: 30px;
+  padding-top: 10px;
+}
+.video {
+  border-radius: 10px;
+}
+.filter {
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.p-header {
+  font-size: larger;
+  color: rgb(43, 44, 43);
+  letter-spacing: 1px;
+}
+.select {
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: rgb(145, 146, 147);
+  /* color: white; */
+}
+.Product,
+.title {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
